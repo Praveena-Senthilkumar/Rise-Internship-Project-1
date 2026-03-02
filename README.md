@@ -107,17 +107,21 @@ A fully functional website hosted on an AWS EC2 Linux server and accessible over
 
 <img width="1917" height="1016" alt="Image" src="https://github.com/user-attachments/assets/d3fe04d1-3e31-404d-8a93-0448c020ec54" />
 
+
 <img width="1159" height="507" alt="Image" src="https://github.com/user-attachments/assets/e76bc211-9c91-460f-ba90-fe4cf285597c" />
+
 
 <img width="1919" height="1025" alt="Image" src="https://github.com/user-attachments/assets/e75b78d4-f4d0-492b-b638-d7738f61f003" />
 
+
 <img width="1919" height="1013" alt="Image" src="https://github.com/user-attachments/assets/011999b9-65aa-4f8f-a645-0b94c0eaf683" />
+
 
 <img width="1919" height="1014" alt="Image" src="https://github.com/user-attachments/assets/421a08ef-eade-48f5-b6f9-66d090094e0a" />
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Attach a custom domain using Route 53
 * Enable HTTPS using SSL/TLS
@@ -127,6 +131,6 @@ A fully functional website hosted on an AWS EC2 Linux server and accessible over
 ---
 
 
-## 📎 Repository Purpose
+##  Repository Purpose
 
 This repository is created as part of my internship to showcase hands-on experience in deploying a website on AWS EC2 and understanding real-world cloud hosting workflows.
